@@ -1,0 +1,177 @@
+*{
+    margin: 1px;
+    padding: 1px;
+    background-color:floralwhite;
+}
+.title1{
+    color: #feb3a7;
+    text-shadow: 2px 2px 1px #ffcece;
+}
+
+body{
+    font-style: "맑은고딕", "고딕", "굴림";
+}
+
+header{
+    text-align: center;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    padding-top: 5px;
+    background-color: floralwhite;
+    overflow: hidden;
+}
+
+header h1{
+    padding: 5px;
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    color:#ffffff;
+    font-style:italic;
+    font-size:40px;
+    border-bottom-style: double; 
+    border-bottom-width: thick;
+    border-top-style: double; 
+    border-top-width: thick;
+    border-color: #ffcccc; 
+}
+header h2{
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    padding: none;
+    color:#ffffff;
+    font-style:italic;
+    font-size:40px;
+}
+
+
+header nav{
+    text-align: center;
+    padding:10px;
+    background-color: #feb3a7;  
+    
+}
+
+nav ul{
+    float: center;
+    list-style: none;
+    background-color: #feb3a7;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+nav ul li{
+    display:inline;
+    float: center;
+    margin: 80px;
+    background-color: #feb3a7;
+}
+
+nav ul li a{
+    color: #ffffff;
+    background-color: #feb3a7;
+    font-family: "DX영화자막 Std Medium";
+}
+
+ul li a:hover{
+    font-size: 20px;
+    color: violet;    
+}
+
+section{
+    width: 100%;
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 10px; 
+}
+
+s1 p{
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    color: #ff9280;
+    background-color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color:floralwhite; 
+    
+}
+s1 ol{
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    padding: 10px;
+}
+s1 li{
+    float:center;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: underline #ffffff;
+    color: #ff9280;
+}
+
+.li1{
+    background-color:#feb3a7;
+    color:#ffffff;
+    font-family: "DX영화자막 Std Medium";
+    border-bottom-style: double; 
+    border-bottom-width: thick;
+    border-top-style: double; 
+    border-top-width: thick;
+    border-color: #ffffff;
+}
+
+.li2{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: center;
+    font-family: "DX영화자막 Std Medium";
+    border-bottom-style: double; 
+    border-bottom-width: thick;
+    border-top-style: double; 
+    border-top-width: thick;
+    border-color: #ffcccc;
+    background-color: #ffffff;
+}
+    
+s2 table{
+    float: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: white;
+    text-align: center;
+    border-top-style: double;
+    border-top-color: #feb3a7;
+    border-bottom-style: double;
+    border-bottom-color: #feb3a7;
+    
+}
+
+footer p{
+    color: #feb3a7;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+
+
+
+
